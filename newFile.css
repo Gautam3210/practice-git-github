@@ -1,0 +1,15 @@
+.heading{
+  background-color: bisque;
+  display: flex;
+  justify-content: center;}
+
+.para1,.para2{
+  background-color: aqua;
+}
+
+.container{
+  display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
